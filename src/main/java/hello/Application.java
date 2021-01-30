@@ -14,7 +14,7 @@ public class Application {
         return "<html><boby>"
         		+ "<h2>Hello, World! from Trunkbase v.1.0</h2><br /><br /><br />"      
         		+ "<img src=\"/image.jpg\">"  		
-        		+ "</boby></html>";
+        		+ "</boby></html> ";
     }
 
     public static void main(String[] args) {
